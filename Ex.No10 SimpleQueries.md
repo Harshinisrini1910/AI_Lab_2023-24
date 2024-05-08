@@ -36,7 +36,8 @@ food(peanuts).
 
 ### Output:
 
-![image](1.png)
+![image](https://github.com/Harshinisrini1910/AI_Lab_2023-24/assets/161415847/d5384d9e-7bb0-4d97-9c6d-4ab665cce13a)
+
 ### Task 2:
 Consider the following facts and represent them in predicate form: <br>              
 1.	Steve likes easy courses. <br> 
@@ -57,7 +58,8 @@ course(bk301,dept(havefun)).
 
 
 ### Output:
-![image](2.png)
+![image](https://github.com/Harshinisrini1910/AI_Lab_2023-24/assets/161415847/3e1f9a35-4eab-45f4-8464-2621ab557ebb)
+
 
 ### Task 3:
 Consider the statement <br> 
