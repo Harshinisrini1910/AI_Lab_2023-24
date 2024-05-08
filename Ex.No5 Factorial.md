@@ -23,7 +23,8 @@ factorial(A,B) :-
 
 
 ### Output:
-![image](FACT.png)
+![image](https://github.com/Harshinisrini1910/AI_Lab_2023-24/assets/161415847/948b80df-4438-43cd-b871-ea93717ce38a)
+
 
 
 ### Result:
